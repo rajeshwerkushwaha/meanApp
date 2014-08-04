@@ -1,0 +1,11 @@
+{
+  "name": "meanApp",
+  "description": "sample mean.io app",
+  "version": "0.0.1",
+  "author": "rajesh kumar",
+  "dependencies": {
+    "express": "~4.7.3",
+    "body-parser": "~1.5.2",
+    "mongoose": "~3.8.14"
+  }
+}
