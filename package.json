@@ -2,7 +2,19 @@
   "name": "meanApp",
   "description": "sample mean.io app",
   "version": "0.0.1",
-  "author": "rajesh kumar",
+  "author": {
+    "name": "Rajesh Kumar",
+    "email": "rajeshwerkushwaha@gmail.com"
+  },
+  "keywords": [
+    "mean",
+    "mean.io",
+    "meanapp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rajeshwerkushwaha/meanApp"
+  },
   "dependencies": {
     "express": "~4.7.3",
     "body-parser": "~1.5.2",
